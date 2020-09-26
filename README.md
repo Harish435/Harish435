@@ -18,8 +18,6 @@ Skills: Java/J2EE/Spring MVC/Hibernate/HTML/CSS/Jquery
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Harish435)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Harish435&show_icons=true)  
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harish435)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/Harish435)  
