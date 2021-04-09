@@ -7,7 +7,7 @@
 Skills: Java/J2EE/Spring MVC/Hibernate/HTML/CSS/Jquery
 
 - 🔭 I’m currently working 
-- 🌱 I’m currently learning Angular,Java8,Nodejs 
+- 🌱 
 - 👯 I’m looking to collaborate on java Fullstack Projects 
 - 💬 Ask me about Full Stack development 
 
